@@ -1,2 +1,2 @@
-# Account-System
+# Discovery_Project
 Maven Project
